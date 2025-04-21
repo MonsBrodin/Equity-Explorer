@@ -2,6 +2,13 @@ Equity Explorer – Interactive Stock Performance Dashboard
 
 A simple interactive finance app built in Jupyter Notebook using yfinance, pandas, matplotlib, and ipywidgets. Users can select stock tickers and a start year to view normalized total return charts and export the data to CSV/Excel.
 
+![App Screenshot](demo.png)
+<h3 align="center">📊 Demo</h3>
+
+<p align="center">
+  <img src="demo.png" width="700"/>
+</p>
+
 🚀 Features
 
 📈 Compare multiple stock tickers
