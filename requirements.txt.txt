@@ -1,0 +1,8 @@
+pandas
+matplotlib
+yfinance
+ipywidgets
+openpyxl
+
+#install with
+pip install -r requirements.txt
