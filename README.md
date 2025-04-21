@@ -10,7 +10,7 @@ A simple interactive finance app built in Jupyter Notebook using yfinance, panda
 
 🧮 Calculates CAGR (Compound Annual Growth Rate)
 
-📊 Interactive matplotlib plot (normalized to 100)
+📊 Interactive matplotlib plot
 
 💾 Export to CSV or Excel
 
